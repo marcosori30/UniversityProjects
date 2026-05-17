@@ -16,7 +16,7 @@ Each project applies theoretical models to real-world financial and economic dat
 
 ---
 
-### 3️⃣ Applied Econometrics Project – Loan Approval: A Logistic Regression Analysis
+### 2️⃣ Applied Econometrics Project – Loan Approval: A Logistic Regression Analysis
 
 📌 **Objective**: Identify which factors influence the outcome of a credit request using logistic regression.  
 📌 **Methods**: Binary logistic regression, model evaluation, interpretation of financial and demographic predictors.  
@@ -25,7 +25,7 @@ Each project applies theoretical models to real-world financial and economic dat
 
 ---
 
-### 4️⃣ Quantitative Finance Group Project - Forecasting of Natural Gas Price Volatility in Italy Using SARIMA-GARCH Models
+### 3️⃣ Quantitative Finance Group Project - Forecasting of Natural Gas Price Volatility in Italy Using SARIMA-GARCH Models
 
 📌 **Objective**: Apply quantitative finance techniques to analyze and model financial market data.  
 📌 **Methods**: Time series analysis, volatility modeling (SARIMA-GARCH), applied to natural gas price forecasting in Italy.  
@@ -34,7 +34,7 @@ Each project applies theoretical models to real-world financial and economic dat
 
 ---
 
-### 2️⃣ Bachelor's Thesis – Cryptocurrencies and Illegal Activities: A Quantitative Analysis
+### 4️⃣ Bachelor's Thesis – Cryptocurrencies and Illegal Activities: A Quantitative Analysis
 
 📌 **Objective**: Investigate the quantitative relationship between cryptocurrency usage and illicit financing activities.  
 📌 **Methods**: Quantitative analysis of user behavior, statistical modeling applied to blockchain transaction data.  
