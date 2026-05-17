@@ -1,5 +1,3 @@
-This repository contains my university projects in quantitative finance and econometrics, covering volatility modeling, logistic regression, and time series analysis.
-
 # 📚 University Projects
 
 This repository contains my university projects and theses focused on **quantitative finance**, **econometrics**, and **financial risk management**.  
