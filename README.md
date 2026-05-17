@@ -11,7 +11,7 @@ Each project applies theoretical models to real-world financial and economic dat
 
 📌 **Objective**: Analyze and forecast financial volatility by decomposing it into short- and long-run components using the MF2-GARCH model.  
 📌 **Methods**: Mixed-frequency GARCH modeling, volatility forecasting, comparison with standard GARCH specifications.  
-📌 **Language**: Italian
+📌 **Language**: Italian.
 📌 **File**: [🔗 View PDF](https://github.com/marcosori30/UniversityProjects/blob/main/Tesi_Magistrale_MF2_GARCH.pdf)
 
 ---
@@ -20,7 +20,7 @@ Each project applies theoretical models to real-world financial and economic dat
 
 📌 **Objective**: Identify which factors influence the outcome of a credit request using logistic regression.  
 📌 **Methods**: Binary logistic regression, model evaluation, interpretation of financial and demographic predictors.
-📌 **Language**: Italian
+📌 **Language**: Italian.
 📌 **File**: [🔗 View PDF](https://github.com/marcosori30/UniversityProjects/blob/main/Progetto_Econometria_Applicata.pdf)
 
 ---
@@ -29,7 +29,7 @@ Each project applies theoretical models to real-world financial and economic dat
 
 📌 **Objective**: Apply quantitative finance techniques to analyze and model financial market data.  
 📌 **Methods**: Time series analysis, volatility modeling (SARIMA-GARCH), applied to natural gas price forecasting in Italy. 
-📌 **Language**: Italian
+📌 **Language**: Italian.
 📌 **File**: [🔗 View PDF](https://github.com/marcosori30/UniversityProjects/blob/main/Group_Project_Quant_Fin.pdf)
 
 ---
@@ -38,10 +38,8 @@ Each project applies theoretical models to real-world financial and economic dat
 
 📌 **Objective**: Investigate the quantitative relationship between cryptocurrency usage and illicit financing activities.  
 📌 **Methods**: Quantitative analysis of user behavior, statistical modeling applied to blockchain transaction data.
-📌 **Language**: Italian
+📌 **Language**: Italian.
 📌 **File**: [🔗 View PDF](https://github.com/marcosori30/UniversityProjects/blob/main/Tesi_Triennale_Bitcoin.pdf)
-
-
 
 ---
 
